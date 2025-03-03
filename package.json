@@ -1,0 +1,18 @@
+{
+  "name": "youtube-api-app",
+  "version": "1.0.0",
+  "description": "A Node.js application to interact with the YouTube Data API and Live Streaming API.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.21.2",
+    "pug": "^3.0.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
